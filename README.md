@@ -45,15 +45,14 @@ while True:
 
 # SERVER OUTPUT :
 
-![s2](https://github.com/kaushik2022/EX-2/assets/129837020/b6af645e-0fe1-4bf4-bac8-2c925718ec69)
+![c2](https://github.com/jeevansurya30/EX-2/assets/129417865/cde5e2e3-3686-4140-8046-3ada9822f277)
 
 
 
 # CLIENT OUTPUT:
 
-![c2](https://github.com/kaushik2022/EX-2/assets/129837020/d998be38-1d9c-465f-9914-8dd9677bb035)
 
-
+![s2](https://github.com/jeevansurya30/EX-2/assets/129417865/4ed45bdc-c4b9-44c2-a45f-28e5b599dda3)
 
 # RESULT :
 ### Thus, python program to perform stop and wait protocol was successfully executed.
